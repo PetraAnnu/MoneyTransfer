@@ -1,2 +1,0 @@
-# MoneyTransfer
-Created with CodeSandbox
